@@ -1,4 +1,4 @@
-# Save Form DAta into a SQLLite Database
+# Save Form Data into a SQLLite Database
 
 ## UI
 
